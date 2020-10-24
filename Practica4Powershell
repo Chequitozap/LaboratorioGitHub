@@ -1,0 +1,35 @@
+#Autor Sergioz
+#Permiso autorizado para modificarlo  
+#Verificador de servicios 
+#Utilizacion declarar estructuras
+#Estructuras de control 
+
+
+function serviciosSistema{
+    $servicio = Read-Host -Prompt "ingrese el nombre del servicio a configurar"
+    $info = Get-Service -Name $servicio
+    if($info.Status -eq "Running"){
+        $op1 = Read-Host -Prompt "El servicio esta activo,desea detenerlo?[Y][N]"
+    }
+    if($op1 -eq "Y"){
+    Get-Service -Name $servicio | Stop-service
+    Get-Service -Name $servicio
+        Write-Host "Hecho."
+    }
+        
+    else{
+       
+      $op2 = Read-Host -Prompt "El servicio esta detenido, desea activarlo? [Y][N]"
+    }
+    if($op2 -eq "Y"){
+        Get-Service -Name $servicio | Start-Service
+        Get-Service -Name $servicio
+        Write-Host "Hecho."
+
+    }
+
+    }
+
+     
+
+ServiciosSistema
