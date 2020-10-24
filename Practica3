@@ -1,0 +1,25 @@
+#!/bin/bash
+#Practica 3 utilizada con bash
+#Verificadro de numeros impares y pares
+#Autor Sergioz
+#Una disculpa por lo tarde pero me facho mi maquina y ya me la repararon 
+
+funcion par(){
+  if(num/2 = 0); then 
+ 
+ echo "El Numero dado  $num es par"
+  
+ else 
+ 
+    echo "El Numero dado $num es impar"
+ 
+ fi 
+ 
+ }
+ 
+ num = read -p "Ingrese un nuevo numero" numero
+ 
+    par()
+
+
+  
