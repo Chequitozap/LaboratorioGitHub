@@ -1,0 +1,21 @@
+Instrucciones: Connectarse a un servidor FTP con ftplib de python, buscar todos las carpetas arcivos de texto 
+(.txt, .msg, README, etc) y los copiamos en una carpeta TXT.
+
+
+El siguiente script funciona de manera manual usted debera elegir su servidos y 
+cambiar unas simples lineas del codigo con el mensaje que le aparezca en terminal 
+
+Les dejo una pagina con servidores gratuitos donde puedes jugar con el script a ver cual te funciona 
+
+(https://www.ftp-sites.org/)
+
+Preferentemente prueba con estos dos 
+-ftp.mirror.nl/
+-ftp.rediris.es/
+
+De alguna manera intente con otras de la pagina que les proporcione pero no me funcionaron por errores de maquina 
+de igual manera tu intenta con esas o otras debera crearte un archivo txt y un README
+
+Cualquier duda o aclaracion estoy dispuesto a ayudarte con el script puedes enviarme mensaje o comunicarte conmigo 
+
+Saludos by_chequito
