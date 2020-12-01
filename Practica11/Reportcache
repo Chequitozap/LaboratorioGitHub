@@ -1,0 +1,537 @@
+
+Configuraci¢n IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 67
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.10
+
+
+    s1795.t.eloqua.com
+    ----------------------------------------
+    Nombre de registro  . : s1795.t.eloqua.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 11851
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : p01.t.eloqua.com
+
+
+    Nombre de registro  . : p01.t.eloqua.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 11851
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 209.167.231.17
+
+
+    oauthaccountmanager.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : oauthaccountmanager.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 158
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.10
+
+
+    oauthaccountmanager.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : oauthaccountmanager.googleapis.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 10
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:808::200a
+
+
+    oauthaccountmanager.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : oauthaccountmanager.googleapis.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 10
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:808::200a
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 68
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 68
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80a::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 68
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:800::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 68
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:804::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 68
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80b::200e
+
+
+    r5---sn-9gv7ened.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-9gv7ened.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.1.10
+
+
+    r5---sn-9gv7ened.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-9gv7ened.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 63
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:11::a
+
+
+    ssl.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : ssl.gstatic.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 11
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80b::2003
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : clientservices.googleapis.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 9
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.3
+
+
+    spclient.wg.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : spclient.wg.spotify.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 35.186.224.25
+
+
+    spclient.wg.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : spclient.wg.spotify.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 10
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 10
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:1:c36::
+
+
+    pippio.com
+    ----------------------------------------
+    Nombre de registro  . : pippio.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 8884
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 107.178.254.65
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Nombre de registro  . : a.nel.cloudflare.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 43966
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 35.190.80.1
+
+
+    r6---sn-q4fl6nlr.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-q4fl6nlr.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 679
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-q4fl6nlr.googlevideo.com
+
+
+    Nombre de registro  . : r6.sn-q4fl6nlr.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 679
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 173.194.24.172
+
+
+    discord.com
+    ----------------------------------------
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 45
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.137.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 45
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.138.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 45
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.128.233
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 45
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.232
+
+
+    Nombre de registro  . : discord.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 45
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.136.232
+
+
+    beacons3.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons3.gvt2.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 92
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.3
+
+
+    api.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : api.spotify.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 4
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 4
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:1:c36::
+
+
+    wpad
+    ----------------------------------------
+    Nombre de registro  . : wpad.huawei.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 472
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    r1---sn-q4fl6nlz.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-q4fl6nlz.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 397
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-q4fl6nlz.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-q4fl6nlz.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 397
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.1.166
+
+
+    r1---sn-q4fl6nlz.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-q4fl6nlz.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 212
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-q4fl6nlz.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-q4fl6nlz.googlevideo.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 212
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:38::6
+
+
+    r5---sn-0opoxu-hutel.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutel.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 111
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutel.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutel.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 111
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.147.80
+
+
+    guc-spclient.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : guc-spclient.spotify.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web-guc.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web-guc.dual-gslb.spotify.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 7
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 35.186.224.12
+
+
+    discordapp.com
+    ----------------------------------------
+    Nombre de registro  . : discordapp.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 219
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.135.233
+
+
+    Nombre de registro  . : discordapp.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 219
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.134.233
+
+
+    Nombre de registro  . : discordapp.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 219
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.129.233
+
+
+    Nombre de registro  . : discordapp.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 219
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.133.233
+
+
+    Nombre de registro  . : discordapp.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 219
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 162.159.130.233
+
+
+    beacons.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons.gvt2.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 15
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.5.163
+
+
+    clients4.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients4.google.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 67
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 67
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.14
+
+
+    r4---sn-9gv7lnez.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-9gv7lnez.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-9gv7lnez.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-9gv7lnez.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.1.73
+
+
+    r4---sn-9gv7lnez.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-9gv7lnez.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-9gv7lnez.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-9gv7lnez.googlevideo.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 26
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:13::9
+
+
+    docs.google.com
+    ----------------------------------------
+    Nombre de registro  . : docs.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 39
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
+
+
+    r5---sn-9gv7ene6.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-9gv7ene6.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 306
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-9gv7ene6.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-9gv7ene6.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 306
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 173.194.143.170
+
+
+    r5---sn-9gv7ene6.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-9gv7ene6.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 402
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-9gv7ene6.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-9gv7ene6.googlevideo.com
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 402
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:10::a
+
+

@@ -1,0 +1,15 @@
+Crear un reporte de la cache del dns windows o powershell
+
+Con el podras ver las consultas que se le da a la cache de las paginas visitas el cual no es 
+nada dificil de verificar cada revision a paginas web desde google creara una cache saliendo 
+en el registro pero estas expiran cada vez mas rapido
+
+*Abrir el cmd directo como de costumbre y poner el siguiente comando
+ipconfig / displaydns > "aqui se coloca el nombre del archivo a crear"
+
+
+*Si cuentas con Windows PowerShell colocar el siguiente comando 
+Get-DnsClientCache 
+
+Con estos comandos podran salirte directo en pantalla pero si lo deseas puedes hacer un archivo .txt de manera
+mas sencilla y practica 
