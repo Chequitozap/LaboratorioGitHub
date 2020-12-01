@@ -1,0 +1,24 @@
+En el siguiente script se debera enviar mensajes de texto mediante correo
+Te adjunto un script en python que te dejara enviar documentos .jpg o .pdf mediante correo 
+
+Un archivo fue creado en python3 
+
+Los demas fueron modificados para enviar correos con formato a correr Shell
+
+
+El script es muy sencillo se crea un usuario donde tu le daras el usuario ya sea Usuario y Contraseña 
+por defecto la contraseña aparecera en blanco pero es por seguridad pero igual se escribe. 
+
+En el script deberas modificar las lineas del mensaje que quieres enviar asi como el del archivo .jpg
+o simplemente el asunto yo te lo adjunto en ingles pero si lo deseas te envio uno en español y solo 
+se modifican esas lineas si desean utilizarse para uso propio.
+
+Algo que debes verificar siempre es el nombre de tus documentos o variables y si es el caso que no te corre 
+copialo en un .txt y luego haz el archivo desde alli por que muchas veces te marca error sin tener alguno.
+
+
+Te adjuntare un powerpoint donde te muestro donde llega el documento o mensaje 
+
+Te adjunto mi correo Zm_sergioarmando@hotmail.com si quieres enviarme un correo prueba o ayuda con el script 
+estos dias mi equipo a estado fallando por eso no podia enviar mis arvchivos pero de igual manera volvi para 
+darte un poco de enseñanza con python3 y linx 
