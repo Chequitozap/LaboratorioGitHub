@@ -1,0 +1,1374 @@
+Hive (C:\Users\zm_se\Desktop\NTUSER.DAT) is dirty.
+If you need to process hive transasction logs, please consider using yarp + registryFlush.py
+(Maxim Suhanov) or rla.exe (Eric Zimmerman).
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+
+----------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2020-11-27 04:58:35Z
+
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3g2
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3g2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3g2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gpp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gpp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gpp
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.3mf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.3mf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.3mf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.3mf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.aac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.aac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ac3
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adt
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.amr
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.arw
+WMP11.AssocFile.ASF_.asf
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.asf
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.avi
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.avi
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.avi
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.bmp
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.cr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.crw
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.dib
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.divx
+docxfile_.docx
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ec3
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.erf
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.fbx
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.fbx
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.fbx
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.fbx
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.flac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.flac
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gif
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.glb
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.glb
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.glb
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.glb
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.gltf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gltf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.gltf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.gltf
+icofile_.ico
+PBrush_.ico
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ico
+AppXzwr976v2e060wada4gabrk1x69h2dbwy_.inf
+AppXhk4des8gf2xat3wtyzc5q06ny78jhkqx_.ini
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jfif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpe
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpeg
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpg
+AppXfeqk92xmhxtyxytgbhn7tdqk70syjc6v_.jpg
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.kdc
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.log
+WMP11.AssocFile.M2TS_.m2t
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2t
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2t
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2t
+WMP11.AssocFile.M2TS_.m2ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2ts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2ts
+WMP11.AssocFile.m3u_.m3u
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m3u
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m3u
+AppX5sy1gww9q4g2gt941cdxxd7s07xe5vph_.m4a
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4r
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m4v
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mka
+WMP11.AssocFile.MKV_.mkv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mkv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mkv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mkv
+WMP11.AssocFile.MPEG_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mod
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mov
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp2
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mp3
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mp3
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4v
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mpa
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mpa
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpe
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpe
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpeg
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpeg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpg
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpg
+WMP11.AssocFile.MPEG_.mpv2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpv2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpv2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.mrw
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mts
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nef
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nrw
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.obj
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.obj
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.obj
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.obj
+AppXd7df65yysmdaz9xc1vjxts4ng22x2n5f_.obj
+odtfile_.odt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.oga
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ogg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogm
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogx
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.opus
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.orf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.pef
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.ply
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ply
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.ply
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.ply
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.png
+AppXxf01pj590w7z9mxmyv3nx0a9ewj3e51g_.ps1
+AppXc9vj55m1n3559gcjff0scsqeket80zp7_.psd1
+AppX1b0e9ytcwx0wcmvkdey0h6af04t1ta3z_.psm1
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raw
+rtffile_.rtf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rw2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rwl
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.scp
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.sr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.srw
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.stl
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.stl
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.stl
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.stl
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tif
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tiff
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tiff
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tiff
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tod
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tts
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.txt
+vcard_wab_auto_file_.vcf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wav
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wav
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.webm
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wm
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wm
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wm
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wma
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wma
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wmv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wmv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wmv
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wpl
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wpl
+AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw_.wtx
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.xvid
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.xvid
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.zpl
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.zpl
+AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy_mswindowsmusic
+AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza_mswindowsvideo
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.bmp
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dib
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.gif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.ico
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jfif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpe
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpeg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.png
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tiff
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.arw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.cr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.crw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.erf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.kdc
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.mrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.orf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.pef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.raw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rw2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rwl
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.sr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.srw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jxr
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.wdp
+Windows.Sandbox_.wsb
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dng
+AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge
+AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv_microsoft-edge-holographic
+AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d_ms-xbl-3d8b930f
+Paint.Picture_.bmp
+CABFolder_.cab
+chm.file_.chm
+Applications\Notepad.exe_.css
+Applications\WordPad.exe_.css
+Applications\Notepad.exe_.csv
+Applications\WordPad.exe_.csv
+Paint.Picture_.dib
+giffile_.gif
+PBrush_.gif
+inffile_.inf
+inifile_.ini
+Applications\WordPad.exe_.ini
+Windows.IsoFile_.iso
+PBrush_.jfif
+PBrush_.jpe
+PBrush_.jpeg
+PBrush_.jpg
+JSFile_.js
+wdpfile_.jxr
+txtfile_.log
+MSInfoFile_.nfo
+PBrush_.png
+Microsoft.PowerShellScript.1_.ps1
+Microsoft.PowerShellData.1_.psd1
+Microsoft.PowerShellModule.1_.psm1
+regfile_.reg
+txtfile_.scp
+TIFImage.Document_.tif
+PBrush_.tif
+TIFImage.Document_.tiff
+PBrush_.tiff
+ttffile_.ttf
+txtfile_.txt
+textfile_.txt
+wdpfile_.wdp
+PBrush_.webp
+txtfile_.wtx
+xmlfile_.xml
+Applications\Notepad.exe_.xml
+Applications\WordPad.exe_.xml
+CompressedFolder_.zip
+WMP11.AssocFile.3G2_.3g2
+WMP11.AssocFile.3GP_.3gp
+WMP11.AssocFile.3G2_.3gp2
+WMP11.AssocFile.3GP_.3gpp
+WMP11.AssocFile.ADTS_.aac
+WMP11.AssocFile.ADTS_.adt
+WMP11.AssocFile.ADTS_.adts
+WMP11.AssocFile.AVI_.avi
+WMP11.AssocFile.FLAC_.flac
+htmlfile_.htm
+Applications\notepad.exe_.htm
+htmlfile_.html
+WMP11.AssocFile.M4A_.m4a
+WMP11.AssocFile.MP4_.m4v
+WMP11.AssocFile.MKA_.mka
+WMP11.AssocFile.MOV_.mov
+WMP11.AssocFile.MP3_.MP2
+WMP11.AssocFile.MP3_.mp3
+WMP11.AssocFile.MP4_.mp4
+WMP11.AssocFile.MP4_.mp4v
+WMP11.AssocFile.MPEG_.mpa
+WMP11.AssocFile.MPEG_.MPE
+WMP11.AssocFile.MPEG_.mpeg
+WMP11.AssocFile.MPEG_.mpg
+WMP11.AssocFile.M2TS_.mts
+Windows.XPSReachViewer_.oxps
+WMP11.AssocFile.TTS_.TS
+WMP11.AssocFile.TTS_.TTS
+InternetShortcut_.url
+WMP11.AssocFile.WAV_.wav
+Microsoft.Website_.website
+WMP11.AssocFile.ASF_.wm
+WMP11.AssocFile.WMA_.wma
+WMP11.AssocFile.WMV_.wmv
+WMP11.AssocFile.WPL_.WPL
+Windows.XPSReachViewer_.xps
+IE.HTTP_http
+IE.HTTPS_https
+Applications\WORDPAD.EXE_.docx
+Word.Document.12_.docx
+Applications\WINWORD.EXE_.docx
+odopen_odopen
+ms-settings_ms-settings
+Python.File_.py
+AppX90nv6nhay5n6a98fnetv7tpk64pp35es_https
+ChromeHTML_https
+ChromeHTML_http
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.html
+Applications\NOTEPAD.EXE_.log
+Applications\NOTEPAD.EXE_.txt
+AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723_.pdf
+ChromeHTML_.pdf
+Undecided_onenote
+OneNote.URL.16_onenote
+AppX333jbhpaq2hjpyd097614409g4kz15cw_onenote
+AppX82a6gwre4fdg3bt635tn5ctqjf8msdd2_ms-windows-store
+ChromeHTML_.htm
+ChromeHTML_.html
+AppXq0fevzme2pys62n3e0fbqa7peapykr8v_http
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.htm
+AppXvepbp3z66accmsd0x877zbbxjctkpr6t_.epub
+AppXde74bfzw9j31bzhcvsrxsyjnhhbq66cs_.svg
+AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t_.xml
+AppXe862j7twqs4aww05211jaakwxyfjx4da_read
+MSEdgeHTM_microsoft-edge
+MSEdgeHTM_microsoft-edge-holographic
+MSEdgeHTM_ms-xbl-3d8b930f
+MSEdgePDF_.pdf
+Applications\notepad.exe_.psd1
+Applications\notepad.exe_.ps1
+Applications\notepad.exe_.psm1
+Applications\powershell.exe_.ps1
+OneNote.Package_.onepkg
+Excel.Sheet.12_.xlsx
+MSEdgeHTM_https
+MSEdgeHTM_http
+Applications\WORDPAD.EXE_.txt
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jfif
+Applications\chrome.exe_.zip
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpg
+TeamsURL_msteams
+Applications\powershell.exe_.whl
+AppXn1yncy109nq4ebnbk9ryn5kyrx9bb2ts_.gz
+AppXcqgejgmw294pdkqcbxxzsra8n3sxn39s_.tar
+AppX0g8mh1cks2qwxknhbkjbzmw2qdzj39ew_.zip
+Applications\NOTEPAD.EXE_.py
+Applications\wmplayer.exe_.avi
+Msi.Package_.msi
+AppX3dryg3tmg693ps92c56k896ryj2cj7q6_.rar
+Applications\powershell.exe_.py
+Applications\pycharm64.exe_.py
+Applications\pythonw.exe_.py
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.png
+FirefoxURL-308046B0AF4A39CB_https
+FirefoxURL-308046B0AF4A39CB_http
+Python.CompiledFile_.pyc
+FirefoxHTML-308046B0AF4A39CB_.pdf
+PowerPoint.Show.12_.pptx
+AppXpgvwesmgtg9r2bh2rkn8wc22mrzsgb7c_.tmp
+Applications\firefox.exe_.png
+Applications\WINWORD.EXE_.dotm
+Word.TemplateMacroEnabled.12_.dotm
+AppX5nebv0xjaxafmmr3cnptgjg9pdpqcg0h_ms-gamingoverlay
+apowersoft-launcher_apowersoft-launcher
+Applications\chrome.exe_.py
+Applications\pythonw.exe_.pyc
+AppXrwygs3cxb4nxzbm69z90vqvynqdf7jm6_.3mf
+AppX2cezadh9nsdj5cpb093fwp4kg1nezskz_.bak
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.bmp
+AppXdjrzvj3xdnhrvk9scdypghec3rk45y72_.cab
+Excel.CSV_.csv
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.dib
+AppXvvwq6wxamf7qhxd0vn6wm1wwehyxrdd6_.dng
+Word.Document.8_.doc
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.gif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.ico
+AppX4nn7b6h7j6rxcqzrcajjehk2gt5m4k9n_.ipa
+AppXd0mpd5v31t3wgnhrtf3a2rs6sfrghnrv_.ipa
+AppXmd1c16n69ytcvtqy0ayx31cedtjjxrfn_.iso
+AppXcrahejh9p9wqqtdannqr21r0tnqk7qwb_.itdb
+AppXmm6vp34bnn9f558e8vb657j7j9q50r1q_.itl
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpe
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpeg
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jxr
+AppXs7xmkvqnd03ekt81z1wbpe07r267x63j_.m3u
+Access.MDBFile_.mdb
+AppXv65xdc23w4yfs44vnw77r03j94c4jnww_.mdb
+odcfile_.odc
+OneNote.Section.1_.one
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.one
+OneNote.TableOfContents.12_.onetoc2
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.onetoc2
+AppX82bpysgfq5sycfg063c3hh0pmyt050fs_.pls
+PowerPoint.Show.8_.ppt
+Outlook.File.pst.15_.pst
+Word.RTF.8_.rtf
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.wdp
+ChromeHTML_.webp
+MSEdgeHTM_.webp
+FirefoxHTML-308046B0AF4A39CB_.webp
+Excel.Sheet.8_.xls
+svgfile_.svg
+ChromeHTML_.svg
+MSEdgeHTM_.svg
+FirefoxHTML-308046B0AF4A39CB_.svg
+MSEdgeHTM_read
+Outlook.File.msg.15_.msg
+sh_auto_file_.sh
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.heic
+PBrush_.heic
+AppX51d84m0eq4w0f67reb3fnn7nwyb8znfj_.mov
+Outlook.File.eml.15_.eml
+AppXkn1qcbm5sq3zpckpgc0sr39rbdbentq3_.eml
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2019-12-07 09:08:44Z - C:\Program Files\Synaptics\SynTP\SynTPHelper.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\19.043.0304.0013\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\20.143.0716.0003\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Downloads\ChromeSetup.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Downloads\Teams_windows_x64.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\OneDrive\Escritorio\Teams_windows_x64.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Windows NT\Accessories\wordpad.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Downloads\OfficeSetup.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Downloads\McAfee_Installer_serial_6URMG5yZ-KoiVOdwnFE91w2_key_affid_911_akey.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\OneDrive\Escritorio\McAfee_Installer_serial_u0DUhwc-O3oUCda7FzJBEg2_key_affid_911_akey.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Programs\Python\Python38-32\pythonw.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Git\git-bash.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Git\cmd\git-gui.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Downloads\GitHubDesktopSetup.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\GitHubDesktop\app-2.5.5\GitHubDesktop.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\microsoft.549981c3f5f10_2.2009.2711.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\AppleInc.iTunes_12109.3.52015.0_x64__nzyj5cx40ttqa\AMDS64\AppleMobileDeviceProcess.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\Teams\current\Teams.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Git\git-cmd.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Google\Drive\googledrivesync.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Temp\SoftwareUpdate_Temp\Data\Setup.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\EPSON Software\Download Navigator\EPSDNAVI.EXE
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\VirtualBox-6.1.14-140239-Win.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\20.169.0823.0006\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\3138AweZip.AweZip_1.3.18.0_x86__ffd303wmbhcjt\AweZip\BreeZip.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Programs\Python\Python38-32\python.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Package Cache\{44a59e57-34e2-4d86-93ba-a2588bfac760}\python-3.8.5.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Package Cache\{a2a37ca0-8ebd-4d7e-b4b8-e6b1740c2ce0}\python-3.9.0-amd64.exe
+  2019-12-07 09:08:44Z - C:\Windows\py.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\python-3.9.0-amd64.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\npp.7.9.Installer.x64.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Notepad++\notepad++.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\AtomSetup-x64.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\pycharm-community-2020.2.3.exe
+  2019-12-07 09:08:44Z - C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\pycharm64.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\OneDrive\20.169.0823.0008\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\SpotifySetup.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\VMware-workstation-full-16.0.0-16894299.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\putty.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\psftp.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Programs\Python\Python39\python.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Programs\Python\Python39\pythonw.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\puttygen.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Notepad++\uninstall.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\Instaladores de programas\python-3.9.0-amd64.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\Firefox Installer.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\Spotify Premium 2019-2020\Spotify Premium 2019-2020\Spotify.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Roaming\Spotify\Spotify.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Microsoft\Teams\Update.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Mozilla Firefox\firefox.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\pythonw.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Nmap\zenmap.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Nmap\nmap.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
+  2019-12-07 09:08:44Z - C:\Program Files\Google\Chrome\Application\chrome.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\ONENOTE.EXE
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE
+  2019-12-07 09:08:44Z - C:\ProgramData\Package Cache\{e31cb1a4-76b5-46a5-a084-3fa419e82201}\VC_redist.x86.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\DiscordSetup.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\AppData\Local\Discord\Update.exe
+  2019-12-07 09:08:44Z - C:\Riot Games\Riot Client\RiotClientServices.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  2019-12-07 09:08:44Z - C:\Users\zm_se\Desktop\RegRipper3.0-master\rr.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe
+----------------------------------------
+appkeys v.20200517
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2020-09-17 06:35:18Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List not found.
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+2020-10-01 13:03:47Z
+  iTunes.exe - C:\Program Files\WindowsApps\AppleInc.iTunes_12109.3.52015.0_x64__nzyj5cx40ttqa\iTunes.exe
+2020-09-17 06:22:19Z
+  Skype.exe - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.64.80.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+appx v.20200427
+(NTUSER.DAT, USRCLASS.DAT) Checks for persistence via Universal Windows Platform Apps
+
+----------------------------------------
+arpcache v.20200515
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20200525
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+cached v.20200525
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+LastWrite Time 2020-12-01 08:02:08Z
+
+2020-09-17 06:04:05Z  First Load: {4234D49B-0245-4DF3-B780-3893943456E1} (IShellFolder)
+2020-09-17 06:04:08Z  First Load: {B2952B16-0E07-4E5A-B993-58C52CB94CAE} (IShellFolder)
+2020-09-17 06:04:33Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} (IShellCopyHookW)
+2020-09-17 06:04:40Z  First Load: {C7657C4A-9F68-40FA-A4DF-96BC08EB3551} ({E357FCCD-A995-4576-B01F-234630154E96})
+2020-09-17 06:05:08Z  First Load: {04731B67-D933-450A-90E6-4ACD2E9408FE} (IDelegateFolder)
+2020-09-17 06:06:17Z  First Load: {D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D} (IShellIconOverlayIdentifier)
+2020-09-17 06:06:24Z  First Load: {2227A280-3AEA-1069-A2DE-08002B30309D} (IShellFolder)
+2020-09-17 06:07:24Z  First Load: {72C984BA-0666-4D3F-A0DE-96BF43838E6E} ({0CB6E812-BD37-4416-BFAE-E44A7C15B453})
+2020-09-17 06:07:44Z  First Load: {BD7A2E7B-21CB-41B2-A086-B309680C6B7E} (IShellFolder)
+2020-09-17 06:07:44Z  First Load: {9E175B8B-F52A-11D8-B9A5-505054503030} (IDBProperties)
+2020-09-17 06:08:09Z  First Load: {289AF617-1CC3-42A6-926C-E6A863F0E3BA} (IDelegateFolder)
+2020-09-17 06:08:09Z  First Load: {35786D3C-B075-49B9-88DD-029876E11C01} (IDelegateFolder)
+2020-09-17 06:08:58Z  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} (IShellFolder)
+2020-09-17 06:09:43Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IShellLinkW)
+2020-09-17 06:10:01Z  First Load: {503E9FD4-127C-4D72-84BF-CF3EC3F80D40} ({E357FCCD-A995-4576-B01F-234630154E96})
+2020-09-17 06:10:01Z  First Load: {021E4F06-9DCC-49AD-88CF-ECC2DA314C8A} ({7F73BE3F-FB79-493C-A6C7-7EE14E245841})
+2020-09-17 06:12:13Z  First Load: {A9249952-F4C6-4BCD-9B44-6A5BA9B5209E} (IExecuteCommand)
+2020-09-17 06:13:10Z  First Load: {11DBB47C-A525-400B-9E80-A54615A090C0} (IExecuteCommand)
+2020-09-17 06:13:11Z  First Load: {B7373566-8FF2-45D8-AF1F-DA39F289BCF9} (IExplorerCommand)
+2020-09-17 06:13:12Z  First Load: {F02C1A0D-BE21-4350-88B0-7367FC96EF3C} (IShellFolder)
+2020-09-17 06:13:13Z  First Load: {BBACC218-34EA-4666-9D7A-C78F2274A524} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {5AB7172C-9C11-405C-8DD5-AF20F3606282} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {A78ED123-AB77-406B-9962-2A5D9D2F7F30} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {F241C880-6982-4CE5-8CF7-7085BA96DA5A} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {9AA2F32D-362A-42D9-9328-24A483E2CCC3} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} (IShellIconOverlayIdentifier)
+2020-09-17 06:13:13Z  First Load: {776DBC8D-7347-478C-8D71-791E12EF49D8} (IExplorerCommand)
+2020-09-17 06:13:16Z  First Load: {BD472F60-27FA-11CF-B8B4-444553540000} (IContextMenu)
+2020-09-17 06:13:33Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} (IContextMenu)
+2020-09-17 06:13:33Z  First Load: {00021401-0000-0000-C000-000000000046} (IContextMenu)
+2020-09-17 06:13:33Z  First Load: {CB3D0F55-BC2C-4C1A-85ED-23ED75B5106B} (IContextMenu)
+2020-09-17 06:13:33Z  First Load: {470C0EBD-5D73-4D58-9CED-E91E22E23282} (IContextMenu)
+2020-09-17 06:13:33Z  First Load: {389510B7-9E58-40D7-98BF-60B911CB0EA9} ({8F6F9C3E-F632-4A9B-8D99-D2D7A11DF56A})
+2020-09-17 06:13:51Z  First Load: {9113A02D-00A3-46B9-BC5F-9C04DADDD5D7} (IDelegateFolder)
+2020-09-17 06:22:53Z  First Load: {2781761E-28E0-4109-99FE-B9D127C57AFE} ({56FFCC30-D398-11D0-B2AE-00A0C908FA49})
+2020-09-17 06:26:36Z  First Load: {9C73F5E5-7AE7-4E32-A8E8-8D23B85255BF} (IShellFolder)
+2020-09-17 06:34:57Z  First Load: {A8A91A66-3A7D-4424-8D24-04E180695C7A} (IShellFolder)
+2020-09-17 06:35:17Z  First Load: {9489FEB2-1925-4D01-B788-6D912C70F7F2} ({B29806D1-8BE0-4962-8BB6-0D4C2E14D47A})
+2020-09-17 06:39:32Z  First Load: {A38B883C-1682-497E-97B0-0A3A9E801682} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-09-17 07:24:29Z  First Load: {355822FC-86F1-4BE8-B5F0-A33736789641} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2020-09-17 07:26:40Z  First Load: {0BF754AA-C967-445C-AB3D-D8FDA9BAE7EF} (IContextMenu)
+2020-09-17 07:26:40Z  First Load: {E61BF828-5E63-4287-BEF1-60B1A4FDE0E3} (IContextMenu)
+2020-09-17 07:26:40Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} (IContextMenu)
+2020-09-17 07:26:40Z  First Load: {99D353BC-C813-41EC-8F28-EAE61E702E57} (IExplorerCommand)
+2020-09-17 07:26:40Z  First Load: {3AB1675A-CCFF-11D2-8B20-00A0C93CB1F4} (IContextMenu)
+2020-09-17 07:29:40Z  First Load: {0CD7A5C0-9F37-11CE-AE65-08002B2E1262} (IShellFolder)
+2020-09-17 07:29:52Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} (IExecuteCommand)
+2020-09-17 07:29:57Z  First Load: {5985FC23-2588-4D9A-B38B-7E7AFFAB3155} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-09-17 07:42:06Z  First Load: {E2BF9676-5F8F-435C-97EB-11607A5BEDF7} (IContextMenu)
+2020-09-17 07:42:06Z  First Load: {09A47860-11B0-4DA5-AFA5-26D86198A780} (IContextMenu)
+2020-09-17 07:42:06Z  First Load: {888DCA60-FC0A-11CF-8F0F-00C04FD7D062} (IDropTarget)
+2020-09-17 07:42:06Z  First Load: {9E56BE60-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2020-09-17 07:42:06Z  First Load: {1D27F844-3A1F-4410-85AC-14651078412D} (IContextMenu)
+2020-09-17 07:42:08Z  First Load: {ECF03A32-103D-11D2-854D-006008059367} (IDropTarget)
+2020-09-17 07:42:08Z  First Load: {9E56BE61-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2020-09-17 07:43:41Z  First Load: {E2BF9676-5F8F-435C-97EB-11607A5BEDF7} (IExplorerCommand)
+2020-09-17 07:43:42Z  First Load: {51CAFEF2-C040-4022-A152-53033EE9A02B} (IExplorerCommandState)
+2020-09-17 07:43:42Z  First Load: {96AC7453-0B2A-451E-9A1A-203CA034AF96} (IExplorerCommandState)
+2020-09-17 08:00:59Z  First Load: {CCA9EFD3-29ED-430A-BA6D-E6BBFF0A60C2} (IContextMenu)
+2020-09-17 17:19:11Z  First Load: {C82FA008-BCE8-4EBC-89F4-5B0061861C6E} (IExplorerCommandState)
+2020-09-17 17:19:11Z  First Load: {C82FA008-BCE8-4EBC-89F4-5B0061861C6E} (IExecuteCommand)
+2020-09-17 19:16:15Z  First Load: {328489C8-F25E-44B5-93D4-8F811B4DC326} ({7F7A7A45-5CDB-41F3-8DC5-F3D47745615C})
+2020-09-17 19:18:06Z  First Load: {7AD84985-87B4-4A16-BE58-8B72A5B390F7} (IContextMenu)
+2020-09-17 19:23:59Z  First Load: {117151A5-951B-477E-91A4-699C7D9D66A2} ({56FFCC30-D398-11D0-B2AE-00A0C908FA49})
+2020-09-18 15:27:13Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} ({000214EF-0000-0000-C000-000000000046})
+2020-09-18 18:55:42Z  First Load: {BEA218D2-6950-497B-9434-61683EC065FE} (IDropTarget)
+2020-09-18 19:07:17Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IExtractIconW)
+2020-09-18 19:29:19Z  First Load: {71DCE5D6-4B57-496B-AC21-CD5B54EB93FD} ({162C6FB5-44D3-435B-903D-E613FA093FB5})
+2020-09-18 19:46:27Z  First Load: {7444C719-39BF-11D1-8CD9-00C04FC29D45} ({000214E9-0000-0000-C000-000000000046})
+2020-09-18 19:46:27Z  First Load: {1F2E5C40-9550-11CE-99D2-00AA006E086C} ({000214E9-0000-0000-C000-000000000046})
+2020-09-18 19:46:28Z  First Load: {3EA48300-8CF6-101B-84FB-666CCB9BCD32} ({000214E9-0000-0000-C000-000000000046})
+2020-09-18 19:46:28Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} ({000214E9-0000-0000-C000-000000000046})
+2020-09-18 19:46:31Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} ({6A283FE2-ECFA-4599-91C4-E80957137B26})
+2020-09-18 20:12:09Z  First Load: {7B81BE6A-CE2B-4676-A29E-EB907A5126C5} (IShellFolder)
+2020-09-18 22:28:49Z  First Load: {E88DCCE0-B7B3-11D1-A9F0-00AA0060FA31} (IShellFolder)
+2020-09-21 01:33:27Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IContextMenu)
+2020-09-21 01:51:48Z  First Load: {ED9D80B9-D157-457B-9192-0E7280313BF0} (IDropTarget)
+2020-09-22 15:26:23Z  First Load: {F81B1B56-7613-4EE4-BC05-1FAB5DE5C07E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-09-22 15:28:11Z  First Load: {0875DCB6-C686-4243-9432-ADCCF0B9F2D7} (IShellFolder)
+2020-09-26 00:22:31Z  First Load: {2854F705-3548-414C-A113-93E27C808C85} (IContextMenu)
+2020-09-26 00:30:37Z  First Load: {B8CDCB65-B1BF-4B42-9428-1DFDB7EE92AF} (IContextMenu)
+2020-09-26 07:30:20Z  First Load: {72B66649-3DBF-429F-BD6F-7774A9784B78} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2020-09-26 07:30:32Z  First Load: {33154C99-BF49-443D-A73C-303A23ABBE97} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-09-26 22:19:06Z  First Load: {8BE9F5EA-E746-4E47-AD57-3FB191CA1EED} ({358B0897-FF98-48E7-9CA7-0F1D980BFB56})
+2020-09-27 07:29:30Z  First Load: {81539FE6-33C7-4CE7-90C7-1C7B8F2F2D42} (IShellIconOverlayIdentifier)
+2020-09-27 07:29:31Z  First Load: {81539FE6-33C7-4CE7-90C7-1C7B8F2F2D40} (IShellIconOverlayIdentifier)
+2020-09-27 07:29:31Z  First Load: {81539FE6-33C7-4CE7-90C7-1C7B8F2F2D41} (IShellIconOverlayIdentifier)
+2020-09-27 07:31:56Z  First Load: {BB02B294-8425-42E5-983F-41A1FA970CD6} (IContextMenu)
+2020-09-28 03:19:51Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} ({000214E9-0000-0000-C000-000000000046})
+2020-09-28 03:19:52Z  First Load: {4A7DED0A-AD25-11D0-98A8-0800361B1103} ({000214E9-0000-0000-C000-000000000046})
+2020-09-28 03:19:52Z  First Load: {ECCDF543-45CC-11CE-B9BF-0080C87CDBA6} ({000214E9-0000-0000-C000-000000000046})
+2020-10-01 01:28:04Z  First Load: {AB968F1E-E20B-403A-9EB8-72EB0EB6797E} (IExtractIconW)
+2020-10-01 01:28:14Z  First Load: {88C6C381-2E85-11D0-94DE-444553540000} (IShellFolder)
+2020-10-01 01:28:15Z  First Load: {BD84B380-8CA2-1069-AB1D-08000948F534} (IShellFolder)
+2020-10-01 10:45:56Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({00021500-0000-0000-C000-000000000046})
+2020-10-05 04:52:57Z  First Load: {939D20AC-8036-406F-BD5C-BF672896BD71} (IExplorerCommand)
+2020-10-14 23:54:42Z  First Load: {513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8} ({000214E9-0000-0000-C000-000000000046})
+2020-10-15 00:04:54Z  First Load: {A3C3D402-E56C-4033-95F7-4885E80B0111} (IDelegateFolder)
+2020-10-15 00:04:55Z  First Load: {2F6CE85C-F9EE-43CA-90C7-8A9BD53A2467} (IShellFolder)
+2020-10-15 00:04:56Z  First Load: {877CA5AC-CB41-4842-9C69-9136E42D47E2} (IDelegateFolder)
+2020-10-15 00:06:14Z  First Load: {44090B31-CDF9-4AD1-8182-DB5DA3627974} (IExecuteCommand)
+2020-10-15 15:18:57Z  First Load: {B298D29A-A6ED-11DE-BA8C-A68E55D89593} (IContextMenu)
+2020-10-18 23:59:11Z  First Load: {E2FB4720-F45F-4A3C-8CB2-2060E12425C3} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-10-19 00:10:28Z  First Load: {ED1D0FDF-4414-470A-A56D-CFB68623FC58} (IExecuteCommand)
+2020-10-20 19:54:07Z  First Load: {8D80504A-0826-40C5-97E1-EBC68F953792} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-10-21 03:03:31Z  First Load: {12F0008F-2113-482A-80B3-FD5E91C12313} (IShellFolder)
+2020-10-24 23:47:25Z  First Load: {3F30C968-480A-4C6C-862D-EFC0897BB84B} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2020-10-27 04:45:17Z  First Load: {264FFAF3-9A9C-42B7-AEDB-34896CDBC7C1} (IExecuteCommand)
+2020-10-27 06:23:10Z  First Load: {9343812E-1C37-4A49-A12E-4B2D810D956B} (IShellFolder)
+2020-10-27 06:23:10Z  First Load: {11016101-E366-4D22-BC06-4ADA335C892B} (IShellFolder)
+2020-10-27 06:23:39Z  First Load: {CFBFAE00-17A6-11D0-99CB-00C04FD64497} ({AC60F6A0-0FD9-11D0-99CB-00C04FD64497})
+2020-10-28 22:31:33Z  First Load: {01BE4CFB-129A-452B-A209-F9D40B3B84A5} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-10-28 22:31:38Z  First Load: {35C5242B-7455-4F9C-962B-369EA43ED6F3} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2020-10-29 07:18:18Z  First Load: {CEEFEA1B-3E29-4EF1-B34C-FEC79C4F70AF} ({01B8912E-05CD-4EB2-8B4B-9112E8C2A8BE})
+2020-11-10 01:18:57Z  First Load: {F0152790-D56E-4445-850E-4F3117DB740C} ({000214E9-0000-0000-C000-000000000046})
+2020-11-10 01:20:50Z  First Load: {C2B136E2-D50E-405C-8784-363C582BF43E} (IDelegateFolder)
+2020-11-15 01:49:40Z  First Load: {97E467B4-98C6-4F19-9588-161B7773D6F6} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-11-20 21:32:25Z  First Load: {60254CA5-953B-11CF-8C96-00AA00B8708C} (IDropTarget)
+2020-11-21 05:29:02Z  First Load: {D6791A63-E7E2-4FEE-BF52-5DED8E86E9B8} (IContextMenu)
+2020-11-21 05:29:02Z  First Load: {E4D28EDC-8C0B-43EE-9E7D-C8A8682334DC} (IContextMenu)
+2020-11-27 04:58:44Z  First Load: {5FA29220-36A1-40F9-89C6-F4B384B7642E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2020-12-01 08:02:08Z  First Load: {7A80E4A8-8005-11D2-BCF8-00C04F72C717} (IExtractIconW)
+----------------------------------------
+cmdproc v.20200515
+(NTUSER.DAT) Autostart - get Command Processor\AutoRun value from NTUSER.DAT hive
+
+Software\Microsoft\Command Processor not found.
+----------------------------------------
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2020-10-15 03:21:19Z
+CIDSizeMRU
+LastWrite: 2020-12-01 09:25:31Z
+Note: All value names are listed in MRUListEx order.
+
+  {2981A615-24E3-4404-94F4-BFCE28B36EEE}
+  notepad.exe
+  Explorer.EXE
+  chrome.exe
+  {49294CFF-867D-431E-8BC4-709C2A8BDC92}
+  Teams.exe
+  pythonw.exe
+  {4884CE71-D656-4C17-95B6-1F35D5EA9982}
+  powershell_ise.exe
+  {31086E4F-DDD3-49EC-906D-E9D3D02BED8B}
+  VirtualBoxVM.exe
+  VirtualBox.exe
+  OpenWith.exe
+  {9848DED1-D1E1-45ED-8BD2-63E6354F5FBD}
+  PickerHost.exe
+  vmware.exe
+  atom.exe
+  notepad++.exe
+  GitHubDesktop.exe
+  WINWORD.EXE
+
+FirstFolder
+LastWrite time: 2020-10-15 03:21:19Z
+Note: All value names are listed in MRUListEx order.
+
+  C:\Program Files\Notepad++\notepad++.exe C:\Program Files\Notepad++ 
+
+LastVisitedPidlMRU
+LastWrite time: 2020-12-01 09:25:31Z
+Note: All value names are listed in MRUListEx order.
+
+  {2981A615-24E3-4404-94F4-BFCE28B36EEE} - My Computer\CLSID_Desktop\Practica9
+  NOTEPAD.EXE - My Computer\CLSID_Desktop
+  chrome.exe - My Computer\CLSID_Desktop
+  {49294CFF-867D-431E-8BC4-709C2A8BDC92} - My Computer\CLSID_Desktop
+  Teams.exe - My Computer\CLSID_Desktop
+  pythonw.exe - My Computer\CLSID_Desktop
+  {4884CE71-D656-4C17-95B6-1F35D5EA9982} - 
+  powershell_ise.exe - 
+  {31086E4F-DDD3-49EC-906D-E9D3D02BED8B} - 
+  VirtualBoxVM.exe - My Computer\CLSID_Desktop
+  VirtualBox.exe - Centos
+  OpenWith.exe - My Computer\CLSID_Desktop
+  {9848DED1-D1E1-45ED-8BD2-63E6354F5FBD} - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  PickerHost.exe - My Computer\CLSID_Desktop\Imagenes pc
+  vmware.exe - My Computer\CLSID_Desktop\Programas Virtual Box
+
+OpenSavePidlMRU
+LastWrite time: 2020-11-11 00:13:51Z
+OpenSavePidlMRU\*
+LastWrite Time: Tue Dec  1 09:25:31 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Practica9\Prueba.pptx
+  My Computer\CLSID_Desktop\Practica9MSJ.sh
+  My Computer\CLSID_Desktop\Practica9.q.txt
+  My Computer\CLSID_Desktop\Practica9.sh
+  My Computer\CLSID_Desktop\Mensaje.py
+  My Computer\CLSID_Desktop\Envimax.py
+  My Computer\CLSID_Desktop\RegRipper3.0-master.zip
+  My Computer\CLSID_Desktop\Curso de RED HAT.docx
+  My Computer\CLSID_Desktop\T4SAZMBACP.docx
+  My Computer\CLSID_Desktop\T5SAZMBACP.docx
+  T5SAZMBACP.docx
+  My Computer\CLSID_Desktop\E10SAZMBACP.py
+  E10SAZMBACP.py
+  My Computer\CLSID_Desktop\2020-03-24_12_082020-03-24_11_4520200325_Los-mejores-memes-sobre-clases-virtuales.jpg
+  My Computer\CLSID_Desktop\Actividad 10 .pdf
+  My Computer\CLSID_Desktop\Actividad10.docx
+  My Computer\CLSID_Desktop\Participacion en clase 15.docx
+  My Computer\CLSID_Desktop\DiscordSetup.exe
+  My Computer\CLSID_Desktop\Imagen1 (1).jpg
+  Imagen1.jpg
+
+OpenSavePidlMRU\bat
+LastWrite Time: Tue Oct 27 05:43:52 2020
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\cmd
+LastWrite Time: Tue Oct 27 05:43:52 2020
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\com
+LastWrite Time: Tue Oct 27 05:43:52 2020
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\docx
+LastWrite Time: Sun Nov 29 05:17:17 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Curso de RED HAT.docx
+  My Computer\CLSID_Desktop\T4SAZMBACP.docx
+  My Computer\CLSID_Desktop\T5SAZMBACP.docx
+  T5SAZMBACP.docx
+  My Computer\CLSID_Desktop\Actividad10.docx
+  My Computer\CLSID_Desktop\Participacion en clase 15.docx
+  My Computer\CLSID_Desktop\Actividad 10 (1986233).docx
+  My Computer\CLSID_Desktop\Cultura de la Paz Video.docx
+  Cultura de la Paz Video.docx
+  Actividad 09.docx
+  Actividad 08.docx
+  Laboratorio 7.docx
+  My Computer\CLSID_Desktop\Laboratorio 8 y 9.docx
+  My Computer\CLSID_Desktop\Unknown Type (0x36)
+  My Computer\CLSID_Desktop\Manual de fracciones parciales.docx
+  My Computer\CLSID_Desktop\Actividad 07.docx
+  My Computer\CLSID_Desktop\Actividad 03.docx
+  My Computer\CLSID_Desktop\Tarea 02.docx
+  My Computer\CLSID_Desktop\EVIDENCIA 2.docx
+  My Computer\CLSID_Desktop\Cultura de la paz .docx
+
+OpenSavePidlMRU\exe
+LastWrite Time: Wed Nov 25 02:44:57 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\DiscordSetup.exe
+  nmap-7.91-setup.exe
+  My Computer\CLSID_Desktop\pythonw.exe
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\apowersoft-online-launcher.exe
+  My Computer\CLSID_Desktop\Firefox Installer.exe
+  My Computer\CLSID_Desktop\VMware-workstation-full-16.0.0-16894299.exe
+  My Computer\CLSID_Desktop\SpotifySetup.exe
+  My Computer\CLSID_Desktop\pycharm-community-2020.2.3.exe
+  My Computer\CLSID_Desktop\AtomSetup-x64.exe
+  My Computer\CLSID_Desktop\npp.7.9.Installer.x64.exe
+  My Computer\CLSID_Desktop\python-3.9.0-amd64.exe
+  My Computer\CLSID_Desktop\VirtualBox-6.1.14-140239-Win.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\installbackupandsync.exe
+  Libraries\Escritorio\Teams_windows_x64.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\VirtualBox-6.1.14-140239-Win.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\GitHubDesktopSetup.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Git-2.28.0-64-bit.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Install League of Legends la1.exe
+  My Computer\CLSID_Desktop\McAfee_Installer_serial_u0DUhwc-O3oUCda7FzJBEg2_key_affid_911_akey.exe
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\McAfee_Installer_serial_6URMG5yZ-KoiVOdwnFE91w2_key_affid_911_akey.exe
+
+OpenSavePidlMRU\gz
+LastWrite Time: Wed Oct  7 23:04:12 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\six-1.15.0.tar.gz
+
+OpenSavePidlMRU\html
+LastWrite Time: Tue Oct 13 01:21:19 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\(5) Facebook.html
+
+OpenSavePidlMRU\iso
+LastWrite Time: Sun Nov  8 23:22:28 2020
+Note: All value names are listed in MRUListEx order.
+
+  Centos\CentOS-8.2.2004-x86_64-minimal (1).iso
+  CentOS-8.2.2004-x86_64-minimal.iso
+  My Computer\CLSID_Desktop\Programas Virtual Box\debian-10.6.0-i386-netinst.iso
+  My Computer\CLSID_Desktop\CentOS-8.2.2004-x86_64-minimal.iso
+  My Computer\CLSID_Desktop\kali-linux-2020.3-installer-amd64.iso
+  My Computer\CLSID_Desktop\ubuntu-20.04.1-desktop-amd64.iso
+  My Computer\CLSID_Desktop\debian-10.6.0-i386-netinst.iso
+  kali-linux-2020.3-installer-amd64.iso
+
+OpenSavePidlMRU\jfif
+LastWrite Time: Sat Nov 21 03:28:31 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\EXTImagen\images (3).jfif
+  My Computer\CLSID_Desktop\EXTImagen\images (2).jfif
+  My Computer\CLSID_Desktop\EXTImagen\images.jfif
+  My Computer\CLSID_Desktop\Imagenes pc\images 4556.jfif
+  My Computer\CLSID_Desktop\images (1).jfif
+  My Computer\CLSID_Desktop\images.jfif
+  My Computer\CLSID_Desktop\e428b5fa-8b98-40ba-83a1-ba25228ec1b8.jfif
+  My Computer\CLSID_Desktop\9c56a0f6-b5e9-4569-904c-02d867a873a1.jfif
+  My Computer\CLSID_Desktop\036f73e0-0ce2-4210-9b23-1d8d21fd2eb1.jfif
+  My Computer\CLSID_Desktop\bb02abb6-a93a-41d1-a3fd-4fc4069c4e1b.jfif
+  My Computer\CLSID_Desktop\82c307b1-c162-4eb7-b3b7-2d51200d8179.jfif
+  My Computer\CLSID_Desktop\f2956b57-b732-451b-a5e6-b4e9d9a04656.jfif
+  My Computer\CLSID_Desktop\6a634b8b-12cc-4675-a292-c4fb21c5d11b.jfif
+  My Computer\CLSID_Desktop\5bd2d924-b8fa-49b4-b190-bca7d00c0527.jfif
+  My Computer\CLSID_Desktop\90ac1b73-eafb-4dcf-a0ad-3dad91f222c6.jfif
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Fri Nov 27 04:42:06 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\2020-03-24_12_082020-03-24_11_4520200325_Los-mejores-memes-sobre-clases-virtuales.jpg
+  My Computer\CLSID_Desktop\Imagen1 (1).jpg
+  Imagen1.jpg
+  My Computer\CLSID_Desktop\EXTImagen\125100284_1853329198148488_8535698249173192746_n.jpg
+  My Computer\CLSID_Desktop\EXTImagen\126157504_499597254333822_6681252690236373294_n.jpg
+  My Computer\CLSID_Desktop\EXTImagen\125821074_133905448126804_2310603930253795594_n.jpg
+  My Computer\CLSID_Desktop\EXTImagen\126842646_251865579611277_1129761504358545631_n.jpg
+  My Computer\CLSID_Desktop\EXTImagen\126842188_3339693839493697_7175030348652472351_n.jpg
+  EXTImagen\126954599_821435538401656_1521636381200506487_n.jpg
+  My Computer\CLSID_Desktop\EXTImagen\DpomWj7U8AERUp-.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123617165_355870028833856_2139298091887173754_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123698392_702306610695651_8500412389215854472_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123587352_373638280715922_5442769378601167941_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123766971_2814055165583865_4116189874571104553_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123792960_2872890106277588_3339033181738403235_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123771622_364583864793747_3929463063401568822_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123658954_1253724021675215_2159357966887988010_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123766697_420244265644504_6976921936250102426_n.jpg
+  My Computer\CLSID_Desktop\Estudiar TOPICOS\123806626_390030082408292_1509619048888473462_n.jpg
+  My Computer\CLSID_Desktop\Imagenes pc\10855.jpg
+
+OpenSavePidlMRU\lnk
+LastWrite Time: Sat Nov  7 23:30:49 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\IDLE (Python 3.9 64-bit).lnk
+  My Computer\C:\IDLE (Python 3.9 64-bit).lnk
+  IDLE (Python 3.9 64-bit).lnk
+
+OpenSavePidlMRU\mp4
+LastWrite Time: Tue Oct 13 01:25:23 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\sarahvvo_121252482_374229533709031_5947843013082493175_n.mp4
+  Libraries\Escritorio\mony_krauss_120092362_183625476536922_8799298942349423817_n.mp4
+
+OpenSavePidlMRU\msi
+LastWrite Time: Tue Oct 20 19:53:00 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Imagenes pc\putty-64bit-0.74-installer.msi
+
+OpenSavePidlMRU\onepkg
+LastWrite Time: Sat Sep 26 06:12:25 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Unknown Type (0x36)
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Wed Nov 25 23:28:37 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Actividad 10 .pdf
+  My Computer\CLSID_Desktop\Actividad 10 (1986233).pdf
+  My Computer\CLSID_Desktop\EP3_ZMSA1872081.pdf
+  Evidencia 4 .pdf
+  My Computer\CLSID_Desktop\Tarea tercer parcial .pdf
+  Tarea tercer parcial .pdf
+  Laboratorio 10 SAZM Permutaciones.pdf
+  My Computer\CLSID_Desktop\Participacion 13.pdf
+  Participacion 13.pdf
+  Actividad 08.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\fso 2do parcial.pdf
+  My Computer\CLSID_Desktop\SAZM EXAMEN 2.pdf
+  My Computer\CLSID_Desktop\Laboratorio 8 y 9.pdf
+  My Computer\CLSID_Desktop\Manual de fracciones parciales.pdf
+  My Computer\CLSID_Desktop\Participacion 12.pdf
+  My Computer\CLSID_Desktop\Actividad 06 .pdf
+  My Computer\CLSID_Desktop\Actividad 05.pdf
+  My Computer\CLSID_Desktop\Actividad 04.pdf
+  My Computer\CLSID_Desktop\E2_SAZM.pdf
+  My Computer\CLSID_Desktop\Examen 2 .pdf
+
+OpenSavePidlMRU\pif
+LastWrite Time: Tue Oct 27 05:43:52 2020
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\png
+LastWrite Time: Mon Nov  9 04:42:09 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_22_42_05.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_22_37_54.png
+  VirtualBox_CentOS Server_08_11_2020_22_35_24.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_22_28_13.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_22_21_23.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_22_04_54.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_59_34.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_53_12.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_52_38.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_46_45.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_46_21.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_21_22_44.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_20_53_13.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_20_50_53.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_20_48_42.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_19_52_31.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_19_51_19.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_19_49_38.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_19_47_20.png
+  My Computer\CLSID_Desktop\VirtualBox_CentOS Server_08_11_2020_19_44_38.png
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Tue Dec  1 09:25:31 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Practica9\Prueba.pptx
+  My Computer\CLSID_Desktop\FSO.pptx
+
+OpenSavePidlMRU\ps1
+LastWrite Time: Sat Nov 21 05:17:06 2020
+Note: All value names are listed in MRUListEx order.
+
+  Unknown Type (0x36)
+  exifXtract.ps1
+  My Computer\CLSID_Desktop\Codigo.ps1
+  My Computer\CLSID_Desktop\T1-SAZMBACP.ps1
+  My Computer\CLSID_Desktop\E4SAZM.ps1
+
+OpenSavePidlMRU\psd1
+LastWrite Time: Mon Oct  5 05:09:58 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Prueba.psd1
+  Change-Image.psd1
+  My Computer\CLSID_Desktop\Delete Teams\Delete  Teams.psd1
+  My Computer\CLSID_Desktop\Delete Teams\Delete-Teams.psd1
+  My Computer\CLSID_Desktop\New-User-Teams.psd1
+  My Computer\CLSID_Desktop\New Teams.psd1
+  My Computer\CLSID_Desktop\Subjects Teams.psd1
+  My Computer\CLSID_Desktop\Teams I belong to.psd1
+
+OpenSavePidlMRU\py
+LastWrite Time: Tue Dec  1 09:04:33 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Mensaje.py
+  My Computer\CLSID_Desktop\Envimax.py
+  My Computer\CLSID_Desktop\E10SAZMBACP.py
+  E10SAZMBACP.py
+  pyExif.py
+  My Computer\CLSID_Desktop\pyExif.py
+  My Computer\CLSID_Desktop\MSG.py
+  MSG.py
+  pass.json.py
+  TAREA.py
+  My Computer\CLSID_Desktop\ftp.py
+  Actividad8.py
+  My Computer\CLSID_Desktop\SAZM.py
+  Preuabs.py
+  My Computer\CLSID_Desktop\Octetos.py
+  My Computer\CLSID_Desktop\Prueba.py
+  scaner.py
+  T3SAZMBACP.py
+  Tarea3.py
+  caesarHacker.py
+
+OpenSavePidlMRU\pyc
+LastWrite Time: Wed Nov 11 00:22:09 2020
+Note: All value names are listed in MRUListEx order.
+
+  CryptoCesar.cpython-36.pyc
+  CryptoCesar.cpython-37.pyc
+
+OpenSavePidlMRU\rar
+LastWrite Time: Sat Nov 21 06:48:18 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Extraccion de imagenes.rar
+  Extraccion de imagenes.rar
+  imagetest.rar
+  My Computer\CLSID_Desktop\Phasmophobia (v.0174).rar
+
+OpenSavePidlMRU\sh
+LastWrite Time: Tue Dec  1 09:07:35 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Practica9MSJ.sh
+  My Computer\CLSID_Desktop\Practica9.sh
+  My Computer\CLSID_Desktop\Prueba.sh
+  My Computer\CLSID_Desktop\E4SAZM.sh
+
+OpenSavePidlMRU\txt
+LastWrite Time: Tue Dec  1 09:06:50 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Practica9.q.txt
+  My Computer\CLSID_Desktop\EXTImagen\c45a0e7f-a222-403a-91ff-6aa612910735.txt
+  MEGA-CLAVEDERECUPERACION.txt
+  My Computer\CLSID_Desktop\Actividad 06.y.txt
+  My Computer\CLSID_Desktop\Nuevo documento de texto.bh.txt
+  My Computer\CLSID_Desktop\clienteTCP.txt
+  My Computer\CLSID_Desktop\servidorTCP.txt
+  My Computer\CLSID_Desktop\q.txt
+  My Computer\CLSID_Desktop\E4SAZM.txt
+  Programa tarea 1.txt
+  E2SAZMBACP.txt
+  TAREA\SAz.txt
+  TAREA\Trabajo.txt
+
+OpenSavePidlMRU\vdi
+LastWrite Time: Thu Oct  1 10:32:50 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Debian_.vdi
+
+OpenSavePidlMRU\whl
+LastWrite Time: Tue Oct  6 00:25:45 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\six-1.15.0-py2.py3-none-any.whl
+
+OpenSavePidlMRU\xlsx
+LastWrite Time: Sat Sep 26 22:38:25 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\Ficha de Datos Alumnos Ciclo Escolar 2020-2021 (respuestas) (2) (1).xlsx
+  My Computer\CLSID_Desktop\Ficha de Datos Alumnos Ciclo Escolar 2020-2021 (respuestas) (2).xlsx
+
+OpenSavePidlMRU\zip
+LastWrite Time: Tue Dec  1 07:39:02 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\RegRipper3.0-master.zip
+  RegRipper3.0-master.zip
+  My Computer\CLSID_Desktop\Actividad 07-20201103T054427Z-001.zip
+  My Computer\CLSID_Desktop\Actividad 05-20201101T201130Z-001.zip
+  My Computer\CLSID_Desktop\Tarea 04-20201031T051148Z-001.zip
+  My Computer\CLSID_Desktop\Tarea 2.zip
+  My Computer\CLSID_Desktop\Practica 05-20201025T013147Z-001.zip
+  My Computer\CLSID_Desktop\T1-SAZMBACP (2).zip
+  My Computer\CLSID_Desktop\E3-SAZMBACP.zip
+  Libraries\Escritorio\E3-PC.zip
+  Libraries\Escritorio\E2SAZMBACP-master.zip
+
+
+----------------------------------------
+compdesc v.20200511
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+----------------------------------------
+DDO v.20140414
+(NTUSER.DAT) Gets user's DeviceDisplayObjects key contents
+
+Software\Microsoft\Windows NT\CurrentVersion\DeviceDisplayObjects not found.
+----------------------------------------
+disablemru v.20190924
+(NTUSER.DAT, Software) Checks settings disabling user's MRUs
+
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2020-11-12 05:01:03Z
+
+Nmap                      C:\Program Files (x86)\Nmap                       
+OneDrive                  C:\Users\zm_se\OneDrive                           
+OneDriveConsumer          C:\Users\zm_se\OneDrive                           
+Path                      C:\Users\zm_se\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\zm_se\AppData\Local\Programs\Python\Python39\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Nmap\nmap.exe;
+TEMP                      %USERPROFILE%\AppData\Local\Temp                  
+TMP                       %USERPROFILE%\AppData\Local\Temp                  
+----------------------------------------
+featureusage v.20200511
+(NTUSER.DAT) Extracts user's FeatureUsage data.
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage
+LastWrite Time:  2020-09-17 07:24:08Z
+KeyCreationTime: 2020-09-17 06:12:13Z
+
+***AppBadgeUpdated values***
+Chrome                                                                            309
+C:\ProgramData\zm_se\SquirrelTemp\Update.exe                                      1
+C:\Users\zm_se\AppData\Local\SquirrelTemp\Update.exe                              11
+com.squirrel.Teams.Teams                                                          2634
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail      5
+{6D809377-6AF0-444B-8957-A3773F02200E}\JetBrains\PyCharm Community Edition 2020.2.3\bin\pycharm64.exe  184
+308046B0AF4A39CB                                                                  3
+C:\Users\zm_se\AppData\Roaming\Spotify\Spotify.exe                                7
+Chrome.UserData.Profile1                                                          2
+com.squirrel.Discord.Discord                                                      2
+
+***AppLaunch values***
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                               1
+Microsoft.Windows.Explorer                                                        83
+Microsoft.Office.WINWORD.EXE.15                                                   21
+Chrome                                                                            151
+C:\Users\zm_se\AppData\Local\GitHubDesktop\app-2.5.5\GitHubDesktop.exe            3
+com.squirrel.Teams.Teams                                                          112
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe      1
+Microsoft.Office.POWERPNT.EXE.15                                                  5
+Microsoft.AutoGenerated.{44E49A35-1F00-301F-2F0D-645E5DDEF766}                    18
+
+***AppSwitched values***
+Chrome                                                                            2408
+Microsoft.Windows.Explorer                                                        202
+com.squirrel.Teams.Teams                                                          1201
+C:\Users\zm_se\Downloads\OfficeSetup.exe                                          4
+C:\Users\zm_se\AppData\Local\Temp\{37E516EC-CA54-4B8E-BBA2-DD9F23054B81}\.cr\python-3.8.5.exe  7
+*PID000019b4                                                                      1
+*PID000027b4                                                                      1
+*PID000021bc                                                                      14
+windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel  34
+Microsoft.Office.WINWORD.EXE.15                                                   753
+C:\Riot Games\Riot Client\UX\RiotClientUx.exe                                     1
+c:\riot games\league of legends\leagueclient.exe                                  14
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\spool\drivers\x64\3\E_YATII2E.EXE          2
+Microsoft.AutoGenerated.{37C126C0-515D-23F7-5FDC-7188ECD25F7E}                    75
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe                                313
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                               84
+GitForWindows.Bash                                                                174
+C:\Users\zm_se\Downloads\GitHubDesktopSetup.exe                                   2
+C:\Users\zm_se\AppData\Local\SquirrelTemp\Update.exe                              9
+C:\Users\zm_se\AppData\Local\GitHubDesktop\app-2.5.5\GitHubDesktop.exe            3
+com.squirrel.GitHubDesktop.GitHubDesktop                                          14
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe                                    133
+C:\Riot Games\League of Legends\Game\League of Legends.exe                        1
+C:\Users\zm_se\Downloads\VirtualBox-6.1.14-140239-Win.exe                         1
+Microsoft.Office.ONENOTE.EXE.15                                                   154
+Microsoft.SkyDrive.Desktop                                                        2
+AppleInc.iTunes_nzyj5cx40ttqa!iTunes                                              6
+MSEdge                                                                            12
+Microsoft.Windows.ControlPanel                                                    7
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe      76
+*PID00003924                                                                      1
+*PID00002cbc                                                                      1
+*PID00001f4c                                                                      1
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\PowerShell_ISE.exe  23
+Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo                             172
+*PID000025dc                                                                      1
+Microsoft.Office.EXCEL.EXE.15                                                     584
+*PID00003958                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe           161
+MSEdge.UserData.Default                                                           151
+Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}                    3
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Update\GoogleUpdate.exe             1
+McAfee.McAgent                                                                    1
+Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim                        1
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail      3
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBoxVM.exe         309
+Microsoft.Windows.Photos_8wekyb3d8bbwe!App                                        28
+Microsoft.WindowsStore_8wekyb3d8bbwe!App                                          3
+3138AweZip.AweZip_ffd303wmbhcjt!App                                               2
+C:\Users\zm_se\AppData\Local\Programs\Python\Python38-32\python.exe               6
+C:\Users\zm_se\AppData\Local\Temp\{CBEC0914-9F48-4385-A30D-355B90EAAF43}\.cr\python-3.9.0-amd64.exe  4
+C:\Users\zm_se\AppData\Local\Package Cache\{44a59e57-34e2-4d86-93ba-a2588bfac760}\python-3.8.5.exe  3
+{6D809377-6AF0-444B-8957-A3773F02200E}\Notepad++\notepad++.exe                    7
+*PID000013cc                                                                      1
+*PID00000cc8                                                                      1
+*PID00002f74                                                                      1
+C:\Users\zm_se\Desktop\pycharm-community-2020.2.3.exe                             1
+{6D809377-6AF0-444B-8957-A3773F02200E}\JetBrains\PyCharm Community Edition 2020.2.3\bin\pycharm64.exe  75
+Microsoft.Windows.MediaPlayer32                                                   1
+C:\Users\zm_se\Desktop\SpotifySetup.exe                                           1
+C:\Users\zm_se\AppData\Roaming\Spotify\SpWebInst0.exe                             2
+C:\Users\zm_se\AppData\Roaming\Spotify\Spotify.exe                                162
+C:\Users\zm_se\Desktop\VMware-workstation-full-16.0.0-16894299.exe                13
+VMware.Workstation.vmui                                                           17
+SimonTatham.PuTTY                                                                 49
+*PID00002c1c                                                                      1
+*PID00001574                                                                      1
+*PID00002778                                                                      1
+C:\Users\zm_se\AppData\Local\Programs\Python\Python39\python.exe                  17
+{F38BF404-1D43-42F2-9305-67DE0B28FC23}\py.exe                                     60
+C:\Users\zm_se\AppData\Local\Temp\SpotifyUninstall.exe                            2
+Microsoft.AutoGenerated.{44E49A35-1F00-301F-2F0D-645E5DDEF766}                    273
+*PID00003248                                                                      1
+C:\Users\zm_se\AppData\Local\Temp\~nsuA.tmp\Un_A.exe                              1
+*PID00002d0c                                                                      1
+308046B0AF4A39CB                                                                  9
+Microsoft.Office.POWERPNT.EXE.15                                                  39
+C:\Users\zm_se\AppData\Local\Apowersoft\Online Screen Recorder\Online Screen Recorder.exe  6
+*PID00001354                                                                      2
+C:\Users\zm_se\AppData\Local\Temp\nsb2843.tmp\npcap-1.00.exe                      1
+C:\Users\zm_se\Desktop\nmap-7.91-setup.exe                                        2
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Nmap\zenmap.exe                            1
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SystemPropertiesAdvanced.exe               5
+*PID00002cf0                                                                      1
+com.squirrel.Discord.Discord                                                      8
+*PID00003edc                                                                      1
+C:\Users\zm_se\Desktop\RegRipper3.0-master\rr.exe                                 14
+MSEdge._crx__opfamklknchehf.UserData.Default                                      5
+
+***ShowJumpView values***
+C:\Users\zm_se\Downloads\OfficeSetup.exe                                          3
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                               1
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail      1
+Microsoft.WindowsStore_8wekyb3d8bbwe!App                                          1
+C:\Users\zm_se\AppData\Local\GitHubDesktop\app-2.5.5\GitHubDesktop.exe            4
+com.squirrel.Teams.Teams                                                          15
+MSEdge.UserData.Default                                                           2
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe      4
+Microsoft.Office.EXCEL.EXE.15                                                     2
+GitForWindows.Bash                                                                3
+Chrome                                                                            12
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe                                2
+c:\riot games\league of legends\leagueclient.exe                                  1
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe           4
+C:\Users\zm_se\AppData\Roaming\Spotify\Spotify.exe                                17
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBoxVM.exe         7
+{6D809377-6AF0-444B-8957-A3773F02200E}\JetBrains\PyCharm Community Edition 2020.2.3\bin\pycharm64.exe  5
+C:\Users\zm_se\AppData\Local\Temp\SpotifyUninstall.exe                            1
+Microsoft.Office.WINWORD.EXE.15                                                   2
+Microsoft.Windows.Explorer                                                        2
+Microsoft.Office.POWERPNT.EXE.15                                                  4
+Microsoft.AutoGenerated.{44E49A35-1F00-301F-2F0D-645E5DDEF766}                    2
+Microsoft.Office.ONENOTE.EXE.15                                                   2
+windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel  1
+
+***TrayButtonClicked values***
+StartButton                                                                       255
+ShowDesktopButton                                                                 9
+SearchBox                                                                         152
+ClockButton                                                                       3
+NotificationCenterButton                                                          5
+MultitaskingButton                                                                4
+
+----------------------------------------
+identities v.20200525
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities not found.
+
+----------------------------------------
+injectdll64 v.20200427
+(NTUSER.DAT, Software) Retrieve values set to weaken Chrome security
+
+Software\Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+----------------------------------------
+jumplistdata v.20200517
+Gets contents of user's JumpListData key
+
+2020-12-01 23:48:35Z  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel
+2020-12-01 23:54:53Z  Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo
+----------------------------------------
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+KnownDevices
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+LastWrite Time 2020-09-22 22:25:39Z
+
+WpdDeviceHandler_{962336BD-0115-5B49-80F8-DE56C5BEFA13}  2020-09-22 22:25:39Z
+Label: Apple iPhone
+
+----------------------------------------
+listsoft v.20200517
+(NTUSER.DAT) Lists contents of user's Software key
+
+listsoft v.20200517
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+2020-12-01 23:56:18Z 	McAfee
+2020-12-01 23:48:42Z 	Microsoft
+2020-12-01 22:44:18Z 	VMware, Inc.
+2020-11-25 02:51:24Z 	Discord
+2020-11-21 22:46:30Z 	SimonTatham
+2020-11-12 18:23:34Z 	RegisteredApplications
+2020-11-10 00:49:52Z 	Nmap
+2020-11-07 21:52:26Z 	Clients
+2020-11-07 21:52:26Z 	Mozilla
+2020-11-06 08:19:39Z 	Apowersoft
+2020-10-15 03:44:18Z 	JavaSoft
+2020-09-29 13:32:55Z 	EPSON
+2020-09-29 13:32:20Z 	EPSON Software Updater
+2020-09-28 04:51:02Z 	Seiko Epson Corporation
+2020-09-27 07:25:02Z 	Google
+2020-09-26 18:32:50Z 	QtProject
+2020-09-25 15:00:19Z 	IM Providers
+2020-09-19 17:33:07Z 	Oracle
+2020-09-19 04:03:25Z 	Logitech
+2020-09-17 19:44:15Z 	Chromium
+2020-09-17 19:44:03Z 	BugSplat
+2020-09-17 07:30:03Z 	ODBC
+2020-09-17 07:30:02Z 	Netscape
+2020-09-17 07:27:53Z 	Python
+2020-09-17 06:09:03Z 	SyncEngines
+2020-09-17 06:06:42Z 	Intel
+2020-09-17 06:06:41Z 	Synaptics
+2020-09-17 06:04:00Z 	AppDataLow
+2020-09-17 06:03:57Z 	Wow6432Node
+2020-09-17 06:01:44Z 	Policies
+----------------------------------------

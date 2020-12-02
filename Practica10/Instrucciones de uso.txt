@@ -1,0 +1,57 @@
+Practica 10 
+En ella deberemos crear un reporte en el usuario windows 
+
+Para ello necesitaremos mas  que nada instalar una herramienta necesaria para la creacion 
+del reporte del usuario windows te dejo un link
+https://github.com/keydet89/RegRipper3.0
+
+Despues de instalarte la herramienta, deberas descomprimirlo del archivo zip que contiene 
+lo unico que nos importara alli sera la aplicacion llamada rr.exe entre todos los archivos
+
+Ya que tenemos la herramienta ahora buscaremos el archivo donde se guardan los reportes del usuario 
+1-Nos vamos a la carpeta de archivos 
+2-Ya abierta le picamos a Este Equipo
+3-Abriremos el disco o la unidad de memoria donde se guarda todo
+4-En ella buscaremos la carpeta windows, daremos doble clik
+5-Despues buscaremos la carperta System32
+6-Dentro de ella buscaremos otra carpeta llamada config daremos igual doble clik
+7-Ya dentro de la carpeta apareceran archivos donde con estos crearemos el reporte 
+  en especifico nos importa una llamada NTUSER.Dat posiblemente no te aparece 
+8-Para ello nos iremos a la parte superior y daremos clik en vista para despues 
+  marcar la casilla "Elementos ocultos" dejandonos asi ver el archivo que buscamos 
+9-Al aparecerte ese archivo ahora deberas pasarlo a una usb o escritorio pero tenemos
+  un pequeño problema , no nos dejara ya que el sistema operativo lo esta usando 
+
+Aqui la pregunta ? como le hago para sacar ese archivo para poderlo escanear en mi herramienta
+Te muestro los pasos 
+
+1-Primero crearas un nuevo usuario en windows con permisos de "administrador" no lo olvides
+2- El proceso sera un poco tardado asi que deberas esperar 
+3-Ya que se creo el usuario haremos los mismos pasos o bueno parecidos 
+4-Nos iremos a carpeta de archivos 
+5-Despues le picamos a Este equipo
+6-Dentro de esa carpeta nos meteremos al disco donde se guarda todo lo del nuevo usuario
+7-Te apareceran carpetas y en ella buscaremos en especifico la llamada "usuarios" o "users"
+  daremos doble clik dentro de ella 
+8-Ya dentro te aparecera las carpetas con tus archivos de tu usuario y tu nuevo usuario
+9-Pon mucha atencion en este paso primero deberas darle doble clik en el usuario pasado
+  no donde esta el nuevo si no en el que ya tenias previamente instalada tu maquina y tus archivos
+10-Al darle doble clik te dira si quieres darle permisos de usuario y tu daras clik que si
+11-Ya dentro de la carpeta buscaremos el archivo previamente buscado llamado NTUSER.DAT
+12-Si no te aparece darle clik en vista y mostrar "archivos ocultos"
+13-Ya despues de esto necesitaras una usb para pasar ese archivo 
+14-Seleccionas el archivo con un clik y aplicas el comando Ctrl+c para poderlo copiar 
+15-Ya echo eso nos iremos a la carpeta de la usb para pegar el archivo directamente 
+   "no pasar a escritorio y luego a usb" ya que luego el NTUSER.DAT guardara los archivos del usuario nuevo
+16-Ya con el archivo listo en la usb cerramos sesion y reinciamos la pc
+17-Ya reinciado abriremos el usario nuestro como normalmente con la usb dentro 
+18-Abriremos la carpeta donde se guardo el archivo NTUSER.DAT para despues pasarlo ahora si al escritorio
+19-Abriremos la herramienta colocando nuestro archivo arriba de ella 
+20-Antes de eso crear un archivo .txt donde se guardaran los resultados 
+21-Ya abajo solo se pondra el direccionamiento de nuestro archivo .txt y correremos la herramienta esta
+creara dos archivos el .txt ya dado y un archivo .log 
+
+
+Y listo ya tendras tu reporte del usuario obtenido 
+Cualquier duda o problema puedes comunicarte conmigo al correo Zm_sergioarmando@hotmail.com
+Create by: Chequitozap
