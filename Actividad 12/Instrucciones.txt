@@ -1,0 +1,31 @@
+Crear 2 archivos ejecutables con python 
+
+1-Abriremos cmd para descargar una herramienta para hacer los ejecutables 
+2-Ya abierto agregaremos lo siguiente "pip install pyinstaller" recuerda
+ que si no te deja deberas abrir cmd como administrador 
+3-Ya descargada la sigueinte libreria deberas crear primero tu archivo python 
+4-Para verificar que funciona correctamente pondras en el cmd "Python nombre de tu scrip.py"
+5-Si vez que el programa corre bien ahora utilizaremos la herramienta para crear el ejecutable 
+  recuerda en que ruta lo dejaste de preferencia en el escritorio
+6-Ya echo todo lo anterior pondras el siguiente argumento "pyinstaller Nombredetuscrip.py"
+  te empezara a cargar y despues te mostrara resultados
+7-Creara como 4 carpetas pero la que nos importa es la que lleva el nombre de dist
+ las demas no les tomaremos importancia al dar doble clik saldran otros paquetes de python
+pero el que queremos es el ejecutable que sale casi en medio con un simbolo de carpeta y 
+la vibora de python 
+8-El script ejecutable debera llevar todas esas carpetas si quieres que funcione correctamente 
+ pero te dare un truco para que todo se vuelva un solo archivo 
+
+9-Nos metemos de nuevo al cmd y pondremos el siguiente comando "pyinstaller --onefile Nombrescript.py"
+ esto nos metera todo al mismo archivo sin tener que cargar con todas las carpetas
+
+
+Tambien podemos crear Archivos python con interfaces graficas te dejo el siguiente link
+donde explican mas a fondo esto 
+https://codinginfinite.com/gui-application-in-python-tkinter-tutorial/
+
+En la parte de abajo te dejo un ejemplo que hice para mi novia haciendo una interfaz grafica con la que 
+el usuario al presionar los botones le manda un mensaje en la terminal 
+
+Cualquier duda o aclaracion puedes enviarme un mensaje a Zm_sergioarmando@hotmail.com
+estoy a tus ordenes si ocupas ayuda en algo 
